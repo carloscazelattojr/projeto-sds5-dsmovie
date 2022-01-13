@@ -16,18 +16,18 @@ import br.com.carlosjunior.dsmovie.services.MovieService;
 @RestController
 @RequestMapping("/movies")
 public class MovieController {
-	
+
 	@Autowired
 	private MovieService service;
-	
+
 	@GetMapping
-	public Page<MovieDTO> findAll(Pageable pageable){
-		return service.findAll(pageable); 
+	public Page<MovieDTO> findAll(Pageable pageable) {
+		return service.findAll(pageable);
 	}
-	
+
 	@GetMapping("/{id}")
-	public MovieDTO findById(@PathVariable Long id){
-		return service.findById(id); 
-	}	
+	public MovieDTO findById(@PathVariable Long id) {
+		return service.findById(id);
+	}
 
 }
