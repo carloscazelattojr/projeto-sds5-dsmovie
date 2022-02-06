@@ -23,4 +23,4 @@ https://dsmovie-cjr.netlify.app/
 
 <br>
 <br>
-Créditos: DevSuperior/SDS5
+Créditos: DevSuperior
