@@ -3,7 +3,7 @@
 Projeto DSMovie - App de Filmes, com backend em Java/Spring hospedado no Heroku e o frontend em React hospedado no Netlify.
 
 
-## [Back-End](https://github.com/carlosjunior1983/projeto-sds5-dsmovie/tree/main/backend) 
+## [Back-End](https://github.com/carloscazelattojr/projeto-sds5-dsmovie/tree/main/backend) 
 
 Tecnologias utilizdas: `Java` `SpringBoot` `H2` `PostgreSQL` `Maven` `Heroku PostgreSQL` 
 
@@ -12,7 +12,7 @@ Tecnologias utilizdas: `Java` `SpringBoot` `H2` `PostgreSQL` `Maven` `Heroku Pos
 https://sds-dmovie-cjr.herokuapp.com/
 
 
-## [Front-End](https://github.com/carlosjunior1983/projeto-sds5-dsmovie/tree/main/frontend) 
+## [Front-End](https://github.com/carloscazelattojr/projeto-sds5-dsmovie/tree/main/frontend) 
 
 Tecnologias utilizdas: `ReactJS` 
 
